@@ -7,15 +7,15 @@ This website is the official website of the Department of Computer Science of th
 
 ## How to Clone and Set Up the Project
 
-To clone and set up the project, you will need to have Git and a web browser installed on your computer. You will also need to have access to the GitHub repository of the project, which is located [https://github.com/Daquiver1/DCIT_205_IA]. Follow the steps below to clone and set up the project:
+To clone and set up the project, you will need to have Git and a web browser installed on your computer. You will also need to have access to the GitHub repository of the project, which is located [https://github.com/SulemanaAbu/DCIT_205_IA]. Follow the steps below to clone and set up the project:
 
 1. Open a terminal or command prompt on your computer, and navigate to the directory where you want to clone the project.
 2. Type the following command to clone the project from GitHub:
 
-git clone https://github.com/SulemanaAbu/11355543_DCIT205.git
+git clone https://github.com/SulemanaAbu/DCIT_205_IA.git
 3. Wait for the cloning process to finish, and then navigate to the cloned directory:
 
-cd 11355543_DCIT205
+cd DCIT_205_IA
 4. You can now view the website files and folders in the cloned directory. To view the website in your web browser, you can either open the home.html file directly or use a local web server.
 
 5. Then, open your web browser and type the following URL to access the website:
