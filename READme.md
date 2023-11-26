@@ -1,19 +1,34 @@
 # 11355543_DCIT205
-The website is designated to the computer science department of the University of Ghana. It comes with tabs and actions that contain relevant information for visitors. Course and department information is also available for readers. Users can subscribe to the newsletter for more department information and can also submit a query if the user needs further clarification.
-## How to clone the project.
--Open and navigate your terminal or command prompt
--Navigate to the directory where you want to clone the project
--Run the following command
-git clone __________________________________________
-### Set Up the Project
--Navigate the cloned project directory
-cd university-department-homepage
--open the project in your chosen code editor
+# Department of Computer Science Website
 
-### View the Website
--Save your changes
--Open the 'home.html' file by double-clicking the file.
+## Introduction and Purpose
 
+This website is the official website of the Department of Computer Science of the University of Ghana. The website provides information and resources about the department, such as its history, vision, mission, values, programs, courses, research, news, events, hackathons, faculty, and contact details. The website also showcases the achievements and contributions of the department's students and staff, as well as the opportunities and challenges in the field of computer science and technology. The website aims to serve as a platform for communication, collaboration, and innovation among the department's stakeholders, as well as to attract and inspire potential students, researchers, and partners.
+
+## How to Clone and Set Up the Project
+
+To clone and set up the project, you will need to have Git and a web browser installed on your computer. You will also need to have access to the GitHub repository of the project, which is located [https://github.com/Daquiver1/DCIT_205_IA]. Follow the steps below to clone and set up the project:
+
+1. Open a terminal or command prompt on your computer, and navigate to the directory where you want to clone the project.
+2. Type the following command to clone the project from GitHub:
+
+git clone https://github.com/SulemanaAbu/11355543_DCIT205.git
+3. Wait for the cloning process to finish, and then navigate to the cloned directory:
+
+cd 11355543_DCIT205
+4. You can now view the website files and folders in the cloned directory. To view the website in your web browser, you can either open the home.html file directly or use a local web server.
+
+5. Then, open your web browser and type the following URL to access the website:
+http://localhost:8000
+
+7. You can now browse the website and see its contents and features. You can also edit the website files and folders using your preferred code editor, and see the changes reflected in your web browser. To stop the local web server, you can press Ctrl+C in your terminal or command prompt.
+ 
+## What I learned from the project
+I explored my skills in coding and creation during my work on this project. I discovered my passion for design and appearance while working on the interface of this website. Overall, I have gained a practical skillset in using HTML and CSS. I wish to enjoy more of this exploration.
+
+## Conclusion
+
+This website is a simple and elegant website that showcases the Department of Computer Science of the University of Ghana. The website is easy to clone and set up and can be modified and improved according to your needs and preferences. I hope you enjoy using and exploring the website, and I welcome your feedback and suggestions. Thank you for your interest and support. 😊
 #### Sulemana Abubakar Saddique 11355543
 
 ##### Screenshots of website pages
